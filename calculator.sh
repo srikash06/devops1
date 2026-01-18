@@ -18,4 +18,7 @@ x=1+2
 
 y=3-2
 
+#multiplication
+
+z=4*2
 
