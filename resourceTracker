@@ -1,0 +1,71 @@
+2025-12-30 12:20:35 srikash-test1
+2025-12-30 12:24:19 srikash-test2
+"i-0068903b97d62bb5c"
+"i-07483e963bef98892"
+"i-064ef74c9c32f8c41"
+"i-0e349c11b6718984f"
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "Srikash",
+            "UserId": "AIDAQUQ2ZFPZQZGIU3TKH",
+            "Arn": "arn:aws:iam::044079590387:user/Srikash",
+            "CreateDate": "2026-01-07T17:24:21+00:00",
+            "PasswordLastUsed": "2026-01-07T17:24:56+00:00"
+        }
+    ]
+}
+=== print list of S3 buckets ===
+2025-12-30 12:20:35 srikash-test1
+2025-12-30 12:24:19 srikash-test2
+=== print list of EC2 instance IDs ===
+"i-0068903b97d62bb5c"
+"i-07483e963bef98892"
+"i-064ef74c9c32f8c41"
+"i-0e349c11b6718984f"
+=== print list of Lambda functions ===
+{
+    "Functions": []
+}
+=== print list of IAM users ===
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "Srikash",
+            "UserId": "AIDAQUQ2ZFPZQZGIU3TKH",
+            "Arn": "arn:aws:iam::044079590387:user/Srikash",
+            "CreateDate": "2026-01-07T17:24:21+00:00",
+            "PasswordLastUsed": "2026-01-07T17:24:56+00:00"
+        }
+    ]
+}
+=== print list of S3 buckets ===
+2025-12-30 12:20:35 srikash-test1
+2025-12-30 12:24:19 srikash-test2
+=== print list of EC2 instance IDs ===
+"i-0068903b97d62bb5c"
+"i-07483e963bef98892"
+"i-064ef74c9c32f8c41"
+"i-0e349c11b6718984f"
+=== print list of Lambda functions ===
+{
+    "Functions": []
+}
+=== print list of IAM users ===
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "Srikash",
+            "UserId": "AIDAQUQ2ZFPZQZGIU3TKH",
+            "Arn": "arn:aws:iam::044079590387:user/Srikash",
+            "CreateDate": "2026-01-07T17:24:21+00:00",
+            "PasswordLastUsed": "2026-01-07T17:24:56+00:00"
+        }
+    ]
+}
