@@ -23,7 +23,7 @@ y=3-2
 z=4*2
 z1=3*2
 
-<<<<<<< HEAD
+
 #percentage
 
 b=20%
@@ -32,5 +32,6 @@ b=20%
 #divison
 
 a=4/2
->>>>>>> divison
+c=6/3
+
 
