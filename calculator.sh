@@ -21,6 +21,7 @@ y=3-2
 #multiplication
 
 z=4*2
+z1=3*2
 
 <<<<<<< HEAD
 #percentage
